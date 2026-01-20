@@ -78,7 +78,7 @@ I enjoy building **scalable, production-oriented systems** and working close to 
 
 ## 📫 Contact
 - **Email:** [sidaldeniz@icloud.com](mailto:sidaldeniz@icloud.com)
-- **LinkedIn:** [linkedin.com/in/sidal-deniz-bingol](https://www.linkedin.com/in/sidal-deniz-bingol)
+- **LinkedIn:** [linkedin.com/in/sidal-deniz-bingol]([https://www.linkedin.com/in/sidal-deniz-bingol](https://www.linkedin.com/in/sidal-deniz-bing%C3%B6l-139950285/))
 - **GitHub:** [github.com/sidalbingl](https://github.com/sidalbingl)
 
 ---
